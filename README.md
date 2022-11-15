@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi 👋
-  ### My name is Vazha, markup developer who fall in love with web development!
+  ### My name is Vazha, markup developer who fall in love with web development!❤️
   
   </div>
   
