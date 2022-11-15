@@ -50,7 +50,7 @@
   
   <div align="center">
   
-## ★Stats
+## ★ Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gudenaf&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudenaf&hide=TeX&layout=compact&theme=dracula)
