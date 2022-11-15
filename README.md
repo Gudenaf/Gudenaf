@@ -38,7 +38,7 @@
 
 <div align="center">
   
-## 👩‍💻  Tools
+## 💻 Tools
 ![PhpStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Intellig IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -50,7 +50,7 @@
   
   <div align="center">
   
-## 💻 Stats
+## ★Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gudenaf&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudenaf&hide=TeX&layout=compact&theme=dracula)
